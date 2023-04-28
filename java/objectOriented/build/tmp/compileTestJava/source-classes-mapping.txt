@@ -1,0 +1,6 @@
+assigment4/Assignment4ApplicationTests.java
+ assigment4.Assignment4ApplicationTests
+assigment4/CodeQualityTests.java
+ assigment4.CodeQualityTests
+ assigment4.CodeQualityTests$Failure
+ assigment4.CodeQualityTests$TestCase

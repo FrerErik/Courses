@@ -1,0 +1,20 @@
+"Milk|Liter|20|y" whitespace
+
+"Egg|g|2|n"
+
+
+"Milk whitespace 
+ABC|asda|Liter|20|y" 
+
+
+Look at a particular recipe
+
+user should be able to define the number of portions needed and the recipe should be updated accordingly. Note that some ingredients cannot be divided, for example eggs, this should be handled by the application rounding to the nearest even divisor above the desired number of portions. The price of the recipe should be calculated.
+
+
+Delete a particular recipe
+Search available recipes based on ingredient name, or the max price
+
+The search should be designed to use the strategy pattern
+
+Feel free to add more search types, e.g. recipe name etc.

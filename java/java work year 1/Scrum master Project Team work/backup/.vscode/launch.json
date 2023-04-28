@@ -1,0 +1,53 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch DatePickerConverterDemo",
+      "request": "launch",
+      "mainClass": "hotelproject.DatePickerConverterDemo",
+      "projectName": "app"
+    },
+    {
+      "type": "java",
+      "name": "Launch dbHandeler",
+      "request": "launch",
+      "mainClass": "hotelproject.dbHandeler",
+      "projectName": "app"
+    },
+    {
+      "type": "java",
+      "name": "Launch FontLister",
+      "request": "launch",
+      "vmArgs": "--module-path /Users/fredr/Downloads/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml",
+      "mainClass": "hotelproject.FontLister",
+      "projectName": "app"
+    },
+    {
+      "type": "java",
+      "name": "Launch ChangeUsernamePassword",
+      "request": "launch",
+      "vmArgs": "--module-path /Users/fredr/Downloads/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml",
+      "mainClass": "hotelproject.ChangeUsernamePassword",
+      "projectName": "app"
+    },
+    {
+      "type": "java",
+      "name": "Launch main",
+      "request": "launch",
+      "mainClass": "hotelproject.main",
+      "projectName": "app"
+    },
+    {
+      "type": "java",
+      "name": "Launch login",
+      "request": "launch",
+      "vmArgs": "--module-path /Users/fredr/Downloads/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml",
+      "mainClass": "hotelproject.login",
+      "projectName": "app"
+    }
+  ]
+}
