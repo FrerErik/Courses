@@ -1,0 +1,15 @@
+C:\Users\fredr\Desktop\work\C# exercises\ProblemC\ProblemC\obj\Debug\net6.0\ProblemC.csproj.AssemblyReference.cache
+C:\Users\fredr\Desktop\work\C# exercises\ProblemC\ProblemC\obj\Debug\net6.0\ProblemC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredr\Desktop\work\C# exercises\ProblemC\ProblemC\obj\Debug\net6.0\ProblemC.AssemblyInfoInputs.cache
+C:\Users\fredr\Desktop\work\C# exercises\ProblemC\ProblemC\obj\Debug\net6.0\ProblemC.AssemblyInfo.cs
+C:\Users\fredr\Desktop\work\C# exercises\ProblemC\ProblemC\obj\Debug\net6.0\ProblemC.csproj.CoreCompileInputs.cache
+C:\Users\fredr\Desktop\work\C# exercises\ProblemC\ProblemC\bin\Debug\net6.0\ProblemC.exe
+C:\Users\fredr\Desktop\work\C# exercises\ProblemC\ProblemC\bin\Debug\net6.0\ProblemC.deps.json
+C:\Users\fredr\Desktop\work\C# exercises\ProblemC\ProblemC\bin\Debug\net6.0\ProblemC.runtimeconfig.json
+C:\Users\fredr\Desktop\work\C# exercises\ProblemC\ProblemC\bin\Debug\net6.0\ProblemC.dll
+C:\Users\fredr\Desktop\work\C# exercises\ProblemC\ProblemC\bin\Debug\net6.0\ProblemC.pdb
+C:\Users\fredr\Desktop\work\C# exercises\ProblemC\ProblemC\obj\Debug\net6.0\ProblemC.dll
+C:\Users\fredr\Desktop\work\C# exercises\ProblemC\ProblemC\obj\Debug\net6.0\refint\ProblemC.dll
+C:\Users\fredr\Desktop\work\C# exercises\ProblemC\ProblemC\obj\Debug\net6.0\ProblemC.pdb
+C:\Users\fredr\Desktop\work\C# exercises\ProblemC\ProblemC\obj\Debug\net6.0\ProblemC.genruntimeconfig.cache
+C:\Users\fredr\Desktop\work\C# exercises\ProblemC\ProblemC\obj\Debug\net6.0\ref\ProblemC.dll
