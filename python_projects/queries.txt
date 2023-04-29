@@ -1,0 +1,54 @@
+Select books.id, books.Title, book_availability.id, book_availability.availability, book_availability.lended_ID
+From books
+Inner Join book_availability
+On books.id = book_availability.id
+
+R09785
+
+Create View Book_Storage as
+Select books.Title, book_availability.availability, book_availability.lended_ID
+From books
+Inner Join book_availability
+On books.id = book_availability.id
+
+
+Select lended_person.Time
+from lended_person
+Inner Join book_availability
+On book_availability.Lended_ID = lended_person.Lended_ID
+
+
+"Fundamentals of Wavelets"
+"Data Smart"
+
+
+select * from non_availablebooks
+where Title = "Fundamentals of Wavelets"
+
+
+Select * from time_left
+where lended_ID = "#000021"
+
+Select Count(SubGenre) as SubGenres, Author
+from books
+group by Author
+
+
+Q3
+Select lended_person.Time, book_storage.Title
+from lended_person
+Inner Join book_storage
+On book_storage.Lended_ID = lended_person.Lended_ID
+
+
+
+q4
+create View Customers_data as
+Select book_storage.title, lended_person.First_name, lended_person.Last_name, lended_person.Picture, lended_person.time
+from book_storage
+inner Join lended_person
+On book_storage.Lended_id = lended_person.Lended_id
+
+
+
+Q5
