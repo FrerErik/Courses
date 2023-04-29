@@ -1,0 +1,36 @@
+
+
+
+
+
+
+
+
+
+
+clear text box after add and remove,[booking and room]
+
+roomNumber
+size
+bed
+price
+location
+comments
+
+
+
+---------------------------------------------------------
+
+After Basic functions
+Implementations
+
+
+number signifies amount of urgency
+
+1. Enter room number should have a verify button next to it, it has to verify 2 things: [ 1, room exists 2, if room is ocupied by date range] [Returns boolean].
+
+2. Verify if customer exists. [Returns Boolean]
+ 
+3. hide "Done" button until both verify buttons are pressed. [Needs previous booleans to be true]
+
+3. Button that shows a list of all rooms depending bed Types
