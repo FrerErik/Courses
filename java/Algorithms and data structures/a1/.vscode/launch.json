@@ -1,0 +1,42 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch Main",
+      "request": "launch",
+      "mainClass": "com.a1.Main",
+      "projectName": "a1"
+    },
+    {
+      "type": "java",
+      "name": "Launch P8",
+      "request": "launch",
+      "mainClass": "com.a1.P8",
+      "projectName": "a1"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch MeasureTime",
+      "request": "launch",
+      "mainClass": "com.a1.MeasureTime",
+      "projectName": "a1"
+    },
+    {
+      "type": "java",
+      "name": "Launch P7",
+      "request": "launch",
+      "mainClass": "com.a1.P7",
+      "projectName": "a1"
+    }
+  ]
+}

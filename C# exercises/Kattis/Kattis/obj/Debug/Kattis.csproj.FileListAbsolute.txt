@@ -1,0 +1,8 @@
+C:\Users\fredr\Desktop\work\C# exercises\Kattis\Kattis\bin\Debug\Kattis.exe.config
+C:\Users\fredr\Desktop\work\C# exercises\Kattis\Kattis\bin\Debug\Kattis.exe
+C:\Users\fredr\Desktop\work\C# exercises\Kattis\Kattis\bin\Debug\Kattis.pdb
+C:\Users\fredr\Desktop\work\C# exercises\Kattis\Kattis\obj\Debug\Kattis.csproj.AssemblyReference.cache
+C:\Users\fredr\Desktop\work\C# exercises\Kattis\Kattis\obj\Debug\Kattis.csproj.SuggestedBindingRedirects.cache
+C:\Users\fredr\Desktop\work\C# exercises\Kattis\Kattis\obj\Debug\Kattis.csproj.CoreCompileInputs.cache
+C:\Users\fredr\Desktop\work\C# exercises\Kattis\Kattis\obj\Debug\Kattis.exe
+C:\Users\fredr\Desktop\work\C# exercises\Kattis\Kattis\obj\Debug\Kattis.pdb

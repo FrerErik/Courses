@@ -1,0 +1,6 @@
+the test cases needed:
+1 addRoom
+2 removeRoom
+3 editRoom
+4 searchRoom
+5 adminAcessLevels

@@ -1,0 +1,32 @@
+
+
+
+As a reception staff, I can see all the bookings for a specific day
+
+
+> value 2021/4/17 is added to a text field
+
+
+
+copy the bookingPossible method in dbHandeler
+room 1 has a date Starting date: 2021/3/24 ,  Ending date: 2021/4/30
+so Room 1 should show up in the list
+
+36 days of difference
+
+
+parseint(2021417)
+
+2021324, 2021430
+
+2022/1/13
+2021/12/29
+2021/11/20, 2022/1/21
+
+
+///delete second calender box fow showing 1 date for all bookings
+-same date should be in starting and end date
+showing all the bookings
+
+
+

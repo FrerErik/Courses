@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="-66.375 -26 1330.5597 777.5075" width="1330.5597" height="777.5075">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 7 6" markerWidth="7" markerHeight="6" color="black">
+      <g>
+        <path d="M 4.8 0 L 0 -1.8 L 0 1.8 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 6 6" markerWidth="6" markerHeight="6" color="black">
+      <g>
+        <path d="M 3.2 0 L 0 -1.2 L 0 1.2 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_3" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-6 -3 7 6" markerWidth="7" markerHeight="6" color="black">
+      <g>
+        <path d="M -4.8 0 L 0 1.8 L 0 -1.8 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <g id="Canvas_7" fill="none" fill-opacity="1" stroke-dasharray="none" stroke="none" stroke-opacity="1">
+    <title>Canvas 7</title>
+    <rect fill="white" x="-66.375" y="-26" width="1330.5597" height="777.5075"/>
+    <g id="Canvas_7_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_2">
+        <circle cx="360" cy="100" r="25.0000399475474" fill="white"/>
+        <circle cx="360" cy="100" r="25.0000399475474" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(345 90.5)" fill="black">
+          <tspan font-family="Fira Mono" font-size="16" fill="black" x="10.2" y="15">G</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4">
+        <circle cx="260" cy="175" r="25.0000399475474" fill="white"/>
+        <circle cx="260" cy="175" r="25.0000399475474" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(245 165.5)" fill="black">
+          <tspan font-family="Fira Mono" font-size="16" fill="black" x="10.2" y="15">P</tspan>
+        </text>
+      </g>
+      <g id="Line_5">
+        <line x1="339.1974" y1="115.60196" x2="291.12262" y2="151.65804" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_7">
+        <path d="M 294 279.25 L 339.5 220.75 L 385 279.25 Z" fill="white"/>
+        <path d="M 294 279.25 L 339.5 220.75 L 385 279.25 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(321.75 252.2)" fill="black">
+          <tspan font-family="Fira Mono" font-size="16" fill="black" x="12.95" y="15">C</tspan>
+        </text>
+      </g>
+      <g id="Line_11">
+        <line x1="278.91237" y1="192.84186" x2="316.2641" y2="228.07933" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_25">
+        <circle cx="160" cy="250" r="25.0000399475474" fill="white"/>
+        <circle cx="160" cy="250" r="25.0000399475474" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(145 240.5)" fill="black">
+          <tspan font-family="Fira Mono" font-size="16" fill="black" x="10.2" y="15">X</tspan>
+        </text>
+      </g>
+      <g id="Line_26">
+        <line x1="239.19738" y1="190.60196" x2="191.12262" y2="226.65804" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_28">
+        <path d="M 34.625 339 L 79.625 280.5 L 124.625 339 Z" fill="white"/>
+        <path d="M 34.625 339 L 79.625 280.5 L 124.625 339 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(62.125 311.95)" fill="black">
+          <tspan font-family="Fira Mono" font-size="16" fill="black" x="12.7" y="15">A</tspan>
+        </text>
+      </g>
+      <g id="Graphic_29">
+        <path d="M 194.375 339 L 239.875 280.5 L 285.375 339 Z" fill="white"/>
+        <path d="M 194.375 339 L 239.875 280.5 L 285.375 339 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(222.125 311.95)" fill="black">
+          <tspan font-family="Fira Mono" font-size="16" fill="black" x="12.95" y="15">B</tspan>
+        </text>
+      </g>
+      <g id="Line_30">
+        <line x1="139.13125" y1="265.51363" x2="105.09485" y2="290.81596" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_31">
+        <line x1="180.82219" y1="265.5759" x2="214.36217" y2="290.6653" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_32">
+        <path d="M 410.5 204.25 L 456 145.75 L 501.5 204.25 Z" fill="white"/>
+        <path d="M 410.5 204.25 L 456 145.75 L 501.5 204.25 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(438.25 177.2)" fill="black">
+          <tspan font-family="Fira Mono" font-size="16" fill="black" x="12.95" y="15">D</tspan>
+        </text>
+      </g>
+      <g id="Line_33">
+        <line x1="380.4907" y1="116.00836" x2="430.89527" y2="155.38693" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_58">
+        <circle cx="1046.1698" cy="175" r="25.0000399475474" fill="white"/>
+        <circle cx="1046.1698" cy="175" r="25.0000399475474" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(1031.1698 165.5)" fill="black">
+          <tspan font-family="Fira Mono" font-size="16" fill="black" x="10.2" y="15">G</tspan>
+        </text>
+      </g>
+      <g id="Graphic_57">
+        <circle cx="918.4776" cy="100" r="25.0000399475474" fill="white"/>
+        <circle cx="918.4776" cy="100" r="25.0000399475474" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(903.4776 90.5)" fill="black">
+          <tspan font-family="Fira Mono" font-size="16" fill="black" x="10.2" y="15">P</tspan>
+        </text>
+      </g>
+      <g id="Line_56">
+        <line x1="940.902" y1="113.17097" x2="1012.6221" y2="155.29579" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_55">
+        <path d="M 937.9403 264 L 983.4403 205.5 L 1028.9403 264 Z" fill="white"/>
+        <path d="M 937.9403 264 L 983.4403 205.5 L 1028.9403 264 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(965.6903 236.95)" fill="black">
+          <tspan font-family="Fira Mono" font-size="16" fill="black" x="12.95" y="15">C</tspan>
+        </text>
+      </g>
+      <g id="Line_54">
+        <line x1="1027.3432" y1="192.93232" x2="1006.5773" y2="212.71196" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_53">
+        <circle cx="788.3153" cy="175" r="25.0000399475474" fill="white"/>
+        <circle cx="788.3153" cy="175" r="25.0000399475474" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(773.3153 165.5)" fill="black">
+          <tspan font-family="Fira Mono" font-size="16" fill="black" x="10.2" y="15">X</tspan>
+        </text>
+      </g>
+      <g id="Line_52">
+        <line x1="895.9442" y1="112.98384" x2="822.026" y2="155.57577" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_51">
+        <path d="M 676.3731 264 L 721.3731 205.5 L 766.3731 264 Z" fill="white"/>
+        <path d="M 676.3731 264 L 721.3731 205.5 L 766.3731 264 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(703.8731 236.95)" fill="black">
+          <tspan font-family="Fira Mono" font-size="16" fill="black" x="12.7" y="15">A</tspan>
+        </text>
+      </g>
+      <g id="Graphic_50">
+        <path d="M 810.75 264 L 856.25 205.5 L 901.75 264 Z" fill="white"/>
+        <path d="M 810.75 264 L 856.25 205.5 L 901.75 264 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(838.5 236.95)" fill="black">
+          <tspan font-family="Fira Mono" font-size="16" fill="black" x="12.95" y="15">B</tspan>
+        </text>
+      </g>
+      <g id="Line_49">
+        <line x1="768.9175" y1="192.3137" x2="745.0857" y2="213.58504" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_48">
+        <line x1="807.8392" y1="192.17164" x2="832.3023" y2="213.6875" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_47">
+        <path d="M 1072.1847 264 L 1117.6847 205.5 L 1163.1847 264 Z" fill="white"/>
+        <path d="M 1072.1847 264 L 1117.6847 205.5 L 1163.1847 264 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(1099.9347 236.95)" fill="black">
+          <tspan font-family="Fira Mono" font-size="16" fill="black" x="12.95" y="15">D</tspan>
+        </text>
+      </g>
+      <g id="Line_46">
+        <line x1="1066.1236" y1="191.6712" x2="1093.228" y2="214.31662" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_59">
+        <line x1="554" y1="164" x2="630.138" y2="165.89047" marker-end="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="4"/>
+      </g>
+      <g id="Graphic_72">
+        <circle cx="752.7966" cy="561.50746" r="25.0000399475474" fill="white"/>
+        <circle cx="752.7966" cy="561.50746" r="25.0000399475474" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(737.7966 552.00746)" fill="black">
+          <tspan font-family="Fira Mono" font-size="16" fill="black" x="10.2" y="15">G</tspan>
+        </text>
+      </g>
+      <g id="Graphic_71">
+        <circle cx="625.1045" cy="486.50746" r="25.0000399475474" fill="white"/>
+        <circle cx="625.1045" cy="486.50746" r="25.0000399475474" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(610.1045 477.00746)" fill="black">
+          <tspan font-family="Fira Mono" font-size="16" fill="black" x="10.2" y="15">P</tspan>
+        </text>
+      </g>
+      <g id="Line_70">
+        <line x1="647.5289" y1="499.67843" x2="719.249" y2="541.80325" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_69">
+        <path d="M 644.5672 650.5075 L 690.0672 592.00746 L 735.5672 650.5075 Z" fill="white"/>
+        <path d="M 644.5672 650.5075 L 690.0672 592.00746 L 735.5672 650.5075 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(672.3172 623.45746)" fill="black">
+          <tspan font-family="Fira Mono" font-size="16" fill="black" x="12.95" y="15">C</tspan>
+        </text>
+      </g>
+      <g id="Line_68">
+        <line x1="733.9701" y1="579.4398" x2="713.20414" y2="599.2194" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_67">
+        <circle cx="495" cy="409" r="25.0000399475474" fill="white"/>
+        <circle cx="495" cy="409" r="25.0000399475474" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(480 399.5)" fill="black">
+          <tspan font-family="Fira Mono" font-size="16" fill="black" x="10.2" y="15">X</tspan>
+        </text>
+      </g>
+      <g id="Line_66">
+        <line x1="591.6799" y1="466.59537" x2="517.3421" y2="422.3099" marker-start="url(#FilledArrow_Marker_3)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_65">
+        <path d="M 383 515.52985 L 428 457.02985 L 473 515.52985 Z" fill="white"/>
+        <path d="M 383 515.52985 L 428 457.02985 L 473 515.52985 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(410.5 488.47985)" fill="black">
+          <tspan font-family="Fira Mono" font-size="16" fill="black" x="12.7" y="15">A</tspan>
+        </text>
+      </g>
+      <g id="Graphic_64">
+        <path d="M 517 590.52985 L 562.5 532.02985 L 608 590.52985 Z" fill="white"/>
+        <path d="M 517 590.52985 L 562.5 532.02985 L 608 590.52985 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(544.75 563.47985)" fill="black">
+          <tspan font-family="Fira Mono" font-size="16" fill="black" x="12.95" y="15">B</tspan>
+        </text>
+      </g>
+      <g id="Line_63">
+        <line x1="477.9676" y1="428.6457" x2="449.0409" y2="462.0106" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_62">
+        <line x1="608.41244" y1="506.4438" x2="583.2321" y2="536.51825" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_61">
+        <path d="M 778.8116 650.5075 L 824.3116 592.00746 L 869.8116 650.5075 Z" fill="white"/>
+        <path d="M 778.8116 650.5075 L 824.3116 592.00746 L 869.8116 650.5075 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(806.5616 623.45746)" fill="black">
+          <tspan font-family="Fira Mono" font-size="16" fill="black" x="12.95" y="15">D</tspan>
+        </text>
+      </g>
+      <g id="Line_60">
+        <line x1="772.7504" y1="578.17866" x2="799.8548" y2="600.8241" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_73">
+        <line x1="766.3731" y1="347.33512" x2="699.4077" y2="414.30056" marker-end="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="4"/>
+      </g>
+      <g id="Graphic_74">
+        <text transform="translate(560.6038 87)" fill="black">
+          <tspan font-family="Fira Sans Condensed" font-weight="bold" font-size="22" fill="black" x="7887024e-19" y="26">1. Rotate</tspan>
+          <tspan font-family="Fira Sans Condensed" font-weight="bold" font-size="22" fill="black" x="3.322" y="58">left at G</tspan>
+        </text>
+      </g>
+      <g id="Graphic_75">
+        <text transform="translate(640 319)" fill="black">
+          <tspan font-family="Fira Sans Condensed" font-weight="bold" font-size="22" fill="black" x="7460699e-19" y="26">2. Rotate</tspan>
+          <tspan font-family="Fira Sans Condensed" font-weight="bold" font-size="22" fill="black" x="4.312" y="58">left at P</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
