@@ -1,0 +1,11 @@
+Planning
+Web scrapper must do this: 
+
+get all links 
+get dates 
+get times 
+get time ranges
+
+look into the following libraries:
+JSDOM
+axios
